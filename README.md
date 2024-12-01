@@ -19,7 +19,7 @@ I would like to thank the creators of the weather API and the various online lea
 
 ## Screenshot
 
-![Weather App Screenshot](https://github.com/nurul-khan786/Weather-App/blob/097c26a2c3d57c07d3f98b4afe05b214933100a6/Screenshot1%20.png) 
+![Weather App Screenshot](https://github.com/nurul-khan786/Weather-App/blob/1c1578dfea0cc841bf963a8d427c8120f47264a0/Screenshot1%20.png) 
 
 ---
 
