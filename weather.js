@@ -9,27 +9,7 @@ const cityTemp2 = document.getElementById('temp2');
 const cityDisc = document.getElementById('weather-disc');
 const weatherfeels = document.getElementById('temp-feels');
 const weatherIcon = document.getElementById('icon');
-
-
-
-    // Asynchronous function to fetch weather data for a given city
-  /*  async function getData(cityName) {
-        try {
-            const promise = await fetch(
-                `https://api.weatherapi.com/v1/current.json?key=f079b6d4a9ff47b79ea113524242210&q=${cityName}&aqi=yes`
-            );
-            if (!promise.ok) {
-                throw new Error(`HTTP error! Status: ${promise.status}`);
-            }
-            // Convert the response to JSON format
-            return await promise.json();
-        } catch (error) {
-            console.error("Failed to fetch weather data:", error);
-            alert("Unable to fetch weather data. Please check your internet connection or try again later.");
-            return null;
-        }
-        
-    }  */
+  
     // Asynchronous function to fetch weather data for a given city
         async function getData(cityName) {
             try {
