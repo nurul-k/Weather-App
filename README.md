@@ -19,7 +19,7 @@ I would like to thank the creators of the weather API and the various online lea
 
 ## Screenshot
 
-![Weather App Screenshot](https://github.com/nurul-khan786/Weather-App/blob/1c1578dfea0cc841bf963a8d427c8120f47264a0/Screenshot1%20.png) 
+![Weather App Screenshot](https://github.com/nurul-k/Weather-App/blob/1c1578dfea0cc841bf963a8d427c8120f47264a0/Screenshot1%20.png) 
 
 ---
 
@@ -45,7 +45,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nurul-khan786/Weather-App
+   git clone https://github.com/nurul-k/Weather-App
 
 Open the index.html file in your browser.
 
@@ -59,5 +59,5 @@ If you have any feedback or suggestions, feel free to reach out:
 
 Email:noorulk321@gmail.com
 
-GitHub: nurul-khan786
+GitHub: nurul-k
 
